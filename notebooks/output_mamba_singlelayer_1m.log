@@ -1,0 +1,101 @@
+causal_conv1d not found
+Range of userId is [0, 6039]
+Range of itemId is [0, 3705]
+(909609, 3) (90600, 3)
+(909609, 2)
+(90600, 2)
+Train Size: 909609, Val Size: 90600
+Length of train_loader:  3554
+Length of val_loader:  354
+forcing vocab_size=50257, block_size=1024, bias=True
+Number of parameters: 47.89M
+Number of trainable parameters: 47.89M
+Reduction: 0.00%
+--------------------------------------------------------------------------------
+Epoch 1/50: Train Loss: 1.3952, Train Acc: 0.3690, Val Loss: 1.3716, Val Acc: 0.3830
+Time taken for epoch 1: 764.3560 seconds (Training: 738.4442 seconds, Evaluation: 25.9118 seconds)
+--------------------------------------------------------------------------------
+Epoch 2/50: Train Loss: 1.3444, Train Acc: 0.3926, Val Loss: 1.3429, Val Acc: 0.3972
+Time taken for epoch 2: 756.1548 seconds (Training: 729.8714 seconds, Evaluation: 26.2834 seconds)
+--------------------------------------------------------------------------------
+Epoch 3/50: Train Loss: 1.2909, Train Acc: 0.4202, Val Loss: 1.3227, Val Acc: 0.4091
+Time taken for epoch 3: 753.9527 seconds (Training: 728.3312 seconds, Evaluation: 25.6215 seconds)
+--------------------------------------------------------------------------------
+Epoch 4/50: Train Loss: 1.2589, Train Acc: 0.4361, Val Loss: 1.3066, Val Acc: 0.4147
+Time taken for epoch 4: 761.3040 seconds (Training: 735.5293 seconds, Evaluation: 25.7747 seconds)
+--------------------------------------------------------------------------------
+Epoch 5/50: Train Loss: 1.2421, Train Acc: 0.4441, Val Loss: 1.3014, Val Acc: 0.4204
+Time taken for epoch 5: 755.5861 seconds (Training: 729.6377 seconds, Evaluation: 25.9484 seconds)
+--------------------------------------------------------------------------------
+Epoch 6/50: Train Loss: 1.2290, Train Acc: 0.4507, Val Loss: 1.2944, Val Acc: 0.4251
+Time taken for epoch 6: 757.3370 seconds (Training: 731.5014 seconds, Evaluation: 25.8355 seconds)
+--------------------------------------------------------------------------------
+Epoch 7/50: Train Loss: 1.2179, Train Acc: 0.4554, Val Loss: 1.2861, Val Acc: 0.4261
+Time taken for epoch 7: 755.5896 seconds (Training: 729.9602 seconds, Evaluation: 25.6294 seconds)
+--------------------------------------------------------------------------------
+Epoch 8/50: Train Loss: 1.2099, Train Acc: 0.4582, Val Loss: 1.2813, Val Acc: 0.4296
+Time taken for epoch 8: 754.0247 seconds (Training: 728.3062 seconds, Evaluation: 25.7185 seconds)
+--------------------------------------------------------------------------------
+Epoch 9/50: Train Loss: 1.2020, Train Acc: 0.4624, Val Loss: 1.2803, Val Acc: 0.4293
+Time taken for epoch 9: 748.5367 seconds (Training: 723.0109 seconds, Evaluation: 25.5258 seconds)
+--------------------------------------------------------------------------------
+Epoch 10/50: Train Loss: 1.1951, Train Acc: 0.4661, Val Loss: 1.2725, Val Acc: 0.4317
+Time taken for epoch 10: 751.7252 seconds (Training: 726.3678 seconds, Evaluation: 25.3574 seconds)
+--------------------------------------------------------------------------------
+Epoch 11/50: Train Loss: 1.1893, Train Acc: 0.4680, Val Loss: 1.2734, Val Acc: 0.4340
+Time taken for epoch 11: 788.4630 seconds (Training: 759.0358 seconds, Evaluation: 29.4272 seconds)
+--------------------------------------------------------------------------------
+Epoch 12/50: Train Loss: 1.1839, Train Acc: 0.4705, Val Loss: 1.2674, Val Acc: 0.4345
+Time taken for epoch 12: 788.8150 seconds (Training: 760.0187 seconds, Evaluation: 28.7962 seconds)
+--------------------------------------------------------------------------------
+Epoch 13/50: Train Loss: 1.1784, Train Acc: 0.4734, Val Loss: 1.2657, Val Acc: 0.4352
+Time taken for epoch 13: 758.9612 seconds (Training: 733.6178 seconds, Evaluation: 25.3434 seconds)
+--------------------------------------------------------------------------------
+Epoch 14/50: Train Loss: 1.1739, Train Acc: 0.4750, Val Loss: 1.2740, Val Acc: 0.4358
+Time taken for epoch 14: 743.5804 seconds (Training: 718.2324 seconds, Evaluation: 25.3479 seconds)
+--------------------------------------------------------------------------------
+Epoch 15/50: Train Loss: 1.1695, Train Acc: 0.4769, Val Loss: 1.2688, Val Acc: 0.4357
+Time taken for epoch 15: 747.8642 seconds (Training: 722.5270 seconds, Evaluation: 25.3372 seconds)
+--------------------------------------------------------------------------------
+Epoch 16/50: Train Loss: 1.1652, Train Acc: 0.4793, Val Loss: 1.2691, Val Acc: 0.4352
+Time taken for epoch 16: 766.7688 seconds (Training: 741.2567 seconds, Evaluation: 25.5122 seconds)
+--------------------------------------------------------------------------------
+Epoch 17/50: Train Loss: 1.1615, Train Acc: 0.4806, Val Loss: 1.2628, Val Acc: 0.4369
+Time taken for epoch 17: 750.9145 seconds (Training: 725.5143 seconds, Evaluation: 25.4003 seconds)
+--------------------------------------------------------------------------------
+Epoch 18/50: Train Loss: 1.1577, Train Acc: 0.4824, Val Loss: 1.2674, Val Acc: 0.4364
+Time taken for epoch 18: 749.0409 seconds (Training: 723.9239 seconds, Evaluation: 25.1170 seconds)
+--------------------------------------------------------------------------------
+Epoch 19/50: Train Loss: 1.1537, Train Acc: 0.4844, Val Loss: 1.2714, Val Acc: 0.4349
+Time taken for epoch 19: 745.9001 seconds (Training: 720.6677 seconds, Evaluation: 25.2324 seconds)
+--------------------------------------------------------------------------------
+Epoch 20/50: Train Loss: 1.1501, Train Acc: 0.4856, Val Loss: 1.2654, Val Acc: 0.4390
+Time taken for epoch 20: 750.5330 seconds (Training: 724.8238 seconds, Evaluation: 25.7092 seconds)
+--------------------------------------------------------------------------------
+Epoch 21/50: Train Loss: 1.1459, Train Acc: 0.4876, Val Loss: 1.2729, Val Acc: 0.4366
+Time taken for epoch 21: 752.2821 seconds (Training: 726.3559 seconds, Evaluation: 25.9261 seconds)
+--------------------------------------------------------------------------------
+Epoch 22/50: Train Loss: 1.1429, Train Acc: 0.4892, Val Loss: 1.2686, Val Acc: 0.4374
+Time taken for epoch 22: 757.9128 seconds (Training: 731.5619 seconds, Evaluation: 26.3509 seconds)
+--------------------------------------------------------------------------------
+Epoch 23/50: Train Loss: 1.1388, Train Acc: 0.4906, Val Loss: 1.2730, Val Acc: 0.4380
+Time taken for epoch 23: 760.9481 seconds (Training: 736.0865 seconds, Evaluation: 24.8616 seconds)
+--------------------------------------------------------------------------------
+Epoch 24/50: Train Loss: 1.1354, Train Acc: 0.4919, Val Loss: 1.2739, Val Acc: 0.4360
+Time taken for epoch 24: 749.9988 seconds (Training: 724.4017 seconds, Evaluation: 25.5971 seconds)
+--------------------------------------------------------------------------------
+Epoch 25/50: Train Loss: 1.1321, Train Acc: 0.4938, Val Loss: 1.2696, Val Acc: 0.4376
+Time taken for epoch 25: 752.5796 seconds (Training: 726.5348 seconds, Evaluation: 26.0448 seconds)
+--------------------------------------------------------------------------------
+Epoch 26/50: Train Loss: 1.1288, Train Acc: 0.4955, Val Loss: 1.2757, Val Acc: 0.4369
+Time taken for epoch 26: 757.7344 seconds (Training: 731.7819 seconds, Evaluation: 25.9524 seconds)
+--------------------------------------------------------------------------------
+Epoch 27/50: Train Loss: 1.1251, Train Acc: 0.4970, Val Loss: 1.2814, Val Acc: 0.4360
+Time taken for epoch 27: 754.5420 seconds (Training: 729.1254 seconds, Evaluation: 25.4166 seconds)
+--------------------------------------------------------------------------------
+Epoch 28/50: Train Loss: 1.1268, Train Acc: 0.4965, Val Loss: 1.2774, Val Acc: 0.4359
+Time taken for epoch 28: 753.6003 seconds (Training: 728.1810 seconds, Evaluation: 25.4193 seconds)
+--------------------------------------------------------------------------------
+Epoch 29/50: Train Loss: 1.1194, Train Acc: 0.4995, Val Loss: 1.2788, Val Acc: 0.4372
+Time taken for epoch 29: 758.4720 seconds (Training: 732.4585 seconds, Evaluation: 26.0135 seconds)
+--------------------------------------------------------------------------------

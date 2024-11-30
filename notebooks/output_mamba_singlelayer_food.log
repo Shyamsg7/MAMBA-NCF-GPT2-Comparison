@@ -1,0 +1,184 @@
+causal_conv1d not found
+Range of userId is [0, 226569]
+Range of itemId is [0, 231636]
+37576
+226570
+(845483, 3) (286884, 3)
+(845483, 2)
+(286884, 2)
+Train Size: 845483, Val Size: 286884
+Length of train_loader:  3303
+Length of val_loader:  1121
+forcing vocab_size=50257, block_size=1024, bias=True
+Number of parameters: 47.89M
+Number of trainable parameters: 47.89M
+Reduction: 0.00%
+--------------------------------------------------------------------------------
+Epoch 1/50: Train Loss: 0.8241, Train Acc: 0.7408, Val Loss: 1.1855, Val Acc: 0.6602
+Time taken for epoch 1: 534.7459 seconds (Training: 477.2617 seconds, Evaluation: 57.4842 seconds)
+--------------------------------------------------------------------------------
+Epoch 2/50: Train Loss: 0.8074, Train Acc: 0.7416, Val Loss: 1.1195, Val Acc: 0.6601
+Time taken for epoch 2: 508.4771 seconds (Training: 455.0107 seconds, Evaluation: 53.4664 seconds)
+--------------------------------------------------------------------------------
+Epoch 3/50: Train Loss: 0.8031, Train Acc: 0.7415, Val Loss: 1.1174, Val Acc: 0.6602
+Time taken for epoch 3: 507.6424 seconds (Training: 453.7970 seconds, Evaluation: 53.8453 seconds)
+--------------------------------------------------------------------------------
+Epoch 4/50: Train Loss: 0.8012, Train Acc: 0.7414, Val Loss: 1.1472, Val Acc: 0.6602
+Time taken for epoch 4: 504.1567 seconds (Training: 451.2981 seconds, Evaluation: 52.8587 seconds)
+--------------------------------------------------------------------------------
+Epoch 5/50: Train Loss: 0.7985, Train Acc: 0.7415, Val Loss: 1.1355, Val Acc: 0.6602
+Time taken for epoch 5: 503.9642 seconds (Training: 450.7608 seconds, Evaluation: 53.2034 seconds)
+--------------------------------------------------------------------------------
+Epoch 6/50: Train Loss: 0.7965, Train Acc: 0.7415, Val Loss: 1.1495, Val Acc: 0.6601
+Time taken for epoch 6: 520.1306 seconds (Training: 466.3112 seconds, Evaluation: 53.8194 seconds)
+--------------------------------------------------------------------------------
+Epoch 7/50: Train Loss: 0.7946, Train Acc: 0.7415, Val Loss: 1.1432, Val Acc: 0.6601
+Time taken for epoch 7: 512.2507 seconds (Training: 456.9904 seconds, Evaluation: 55.2602 seconds)
+--------------------------------------------------------------------------------
+Epoch 8/50: Train Loss: 0.7927, Train Acc: 0.7416, Val Loss: 1.1243, Val Acc: 0.6601
+Time taken for epoch 8: 509.0666 seconds (Training: 456.2844 seconds, Evaluation: 52.7822 seconds)
+--------------------------------------------------------------------------------
+Epoch 9/50: Train Loss: 0.7837, Train Acc: 0.7417, Val Loss: 1.1199, Val Acc: 0.6594
+Time taken for epoch 9: 500.5159 seconds (Training: 447.4188 seconds, Evaluation: 53.0971 seconds)
+--------------------------------------------------------------------------------
+Epoch 10/50: Train Loss: 0.7701, Train Acc: 0.7424, Val Loss: 1.1390, Val Acc: 0.6586
+Time taken for epoch 10: 506.6415 seconds (Training: 452.2336 seconds, Evaluation: 54.4079 seconds)
+--------------------------------------------------------------------------------
+Epoch 11/50: Train Loss: 0.7658, Train Acc: 0.7429, Val Loss: 1.1395, Val Acc: 0.6581
+Time taken for epoch 11: 507.1503 seconds (Training: 453.5478 seconds, Evaluation: 53.6025 seconds)
+--------------------------------------------------------------------------------
+Epoch 12/50: Train Loss: 0.7581, Train Acc: 0.7435, Val Loss: 1.1596, Val Acc: 0.6577
+Time taken for epoch 12: 505.0404 seconds (Training: 451.1085 seconds, Evaluation: 53.9319 seconds)
+--------------------------------------------------------------------------------
+Epoch 13/50: Train Loss: 0.7454, Train Acc: 0.7455, Val Loss: 1.1538, Val Acc: 0.6564
+Time taken for epoch 13: 506.3472 seconds (Training: 452.5035 seconds, Evaluation: 53.8437 seconds)
+--------------------------------------------------------------------------------
+Epoch 14/50: Train Loss: 0.7361, Train Acc: 0.7471, Val Loss: 1.1453, Val Acc: 0.6534
+Time taken for epoch 14: 504.1272 seconds (Training: 450.2170 seconds, Evaluation: 53.9102 seconds)
+--------------------------------------------------------------------------------
+Epoch 15/50: Train Loss: 0.7276, Train Acc: 0.7485, Val Loss: 1.1566, Val Acc: 0.6553
+Time taken for epoch 15: 505.6528 seconds (Training: 452.2892 seconds, Evaluation: 53.3636 seconds)
+--------------------------------------------------------------------------------
+Epoch 16/50: Train Loss: 0.7271, Train Acc: 0.7480, Val Loss: 1.1465, Val Acc: 0.6555
+Time taken for epoch 16: 526.1468 seconds (Training: 465.4146 seconds, Evaluation: 60.7322 seconds)
+--------------------------------------------------------------------------------
+Epoch 17/50: Train Loss: 0.7169, Train Acc: 0.7496, Val Loss: 1.1804, Val Acc: 0.6555
+Time taken for epoch 17: 537.0572 seconds (Training: 476.2987 seconds, Evaluation: 60.7585 seconds)
+--------------------------------------------------------------------------------
+Epoch 18/50: Train Loss: 0.7107, Train Acc: 0.7506, Val Loss: 1.1474, Val Acc: 0.6528
+Time taken for epoch 18: 536.7180 seconds (Training: 474.0890 seconds, Evaluation: 62.6290 seconds)
+--------------------------------------------------------------------------------
+Epoch 19/50: Train Loss: 0.7046, Train Acc: 0.7513, Val Loss: 1.1717, Val Acc: 0.6521
+Time taken for epoch 19: 526.4475 seconds (Training: 473.5430 seconds, Evaluation: 52.9045 seconds)
+--------------------------------------------------------------------------------
+Epoch 20/50: Train Loss: 0.6992, Train Acc: 0.7522, Val Loss: 1.1780, Val Acc: 0.6519
+Time taken for epoch 20: 501.2124 seconds (Training: 448.3631 seconds, Evaluation: 52.8493 seconds)
+--------------------------------------------------------------------------------
+Epoch 21/50: Train Loss: 0.6946, Train Acc: 0.7526, Val Loss: 1.1755, Val Acc: 0.6498
+Time taken for epoch 21: 501.6989 seconds (Training: 448.9395 seconds, Evaluation: 52.7593 seconds)
+--------------------------------------------------------------------------------
+Epoch 22/50: Train Loss: 0.6896, Train Acc: 0.7534, Val Loss: 1.1712, Val Acc: 0.6455
+Time taken for epoch 22: 501.1273 seconds (Training: 448.2571 seconds, Evaluation: 52.8702 seconds)
+--------------------------------------------------------------------------------
+Epoch 23/50: Train Loss: 0.6853, Train Acc: 0.7540, Val Loss: 1.1971, Val Acc: 0.6487
+Time taken for epoch 23: 501.8547 seconds (Training: 449.1638 seconds, Evaluation: 52.6909 seconds)
+--------------------------------------------------------------------------------
+Epoch 24/50: Train Loss: 0.6813, Train Acc: 0.7548, Val Loss: 1.2010, Val Acc: 0.6451
+Time taken for epoch 24: 517.1250 seconds (Training: 458.8181 seconds, Evaluation: 58.3069 seconds)
+--------------------------------------------------------------------------------
+Epoch 25/50: Train Loss: 0.6777, Train Acc: 0.7554, Val Loss: 1.2421, Val Acc: 0.6459
+Time taken for epoch 25: 511.4436 seconds (Training: 458.0580 seconds, Evaluation: 53.3856 seconds)
+--------------------------------------------------------------------------------
+Epoch 26/50: Train Loss: 0.6731, Train Acc: 0.7563, Val Loss: 1.2131, Val Acc: 0.6416
+Time taken for epoch 26: 500.5542 seconds (Training: 447.9885 seconds, Evaluation: 52.5657 seconds)
+--------------------------------------------------------------------------------
+Epoch 27/50: Train Loss: 0.6694, Train Acc: 0.7569, Val Loss: 1.2271, Val Acc: 0.6416
+Time taken for epoch 27: 504.6277 seconds (Training: 451.5545 seconds, Evaluation: 53.0732 seconds)
+--------------------------------------------------------------------------------
+Epoch 28/50: Train Loss: 0.6664, Train Acc: 0.7574, Val Loss: 1.2526, Val Acc: 0.6405
+Time taken for epoch 28: 501.7727 seconds (Training: 448.7653 seconds, Evaluation: 53.0073 seconds)
+--------------------------------------------------------------------------------
+Epoch 29/50: Train Loss: 0.6620, Train Acc: 0.7587, Val Loss: 1.2627, Val Acc: 0.6396
+Time taken for epoch 29: 502.9194 seconds (Training: 449.9441 seconds, Evaluation: 52.9753 seconds)
+--------------------------------------------------------------------------------
+/raid/home/shyamsg/.local/lib/python3.8/site-packages/mamba_ssm/ops/selective_scan_interface.py:164: FutureWarning: `torch.cuda.amp.custom_fwd(args...)` is deprecated. Please use `torch.amp.custom_fwd(args..., device_type='cuda')` instead.
+  def forward(ctx, xz, conv1d_weight, conv1d_bias, x_proj_weight, delta_proj_weight,
+/raid/home/shyamsg/.local/lib/python3.8/site-packages/mamba_ssm/ops/selective_scan_interface.py:240: FutureWarning: `torch.cuda.amp.custom_bwd(args...)` is deprecated. Please use `torch.amp.custom_bwd(args..., device_type='cuda')` instead.
+  def backward(ctx, dout):
+/raid/home/shyamsg/.local/lib/python3.8/site-packages/mamba_ssm/ops/triton/layer_norm.py:986: FutureWarning: `torch.cuda.amp.custom_fwd(args...)` is deprecated. Please use `torch.amp.custom_fwd(args..., device_type='cuda')` instead.
+  def forward(
+/raid/home/shyamsg/.local/lib/python3.8/site-packages/mamba_ssm/ops/triton/layer_norm.py:1045: FutureWarning: `torch.cuda.amp.custom_bwd(args...)` is deprecated. Please use `torch.amp.custom_bwd(args..., device_type='cuda')` instead.
+  def backward(ctx, dout, *args):
+/raid/home/shyamsg/.local/lib/python3.8/site-packages/mamba_ssm/distributed/tensor_parallel.py:26: FutureWarning: `torch.cuda.amp.custom_fwd(args...)` is deprecated. Please use `torch.amp.custom_fwd(args..., device_type='cuda')` instead.
+  def forward(ctx, x, weight, bias, process_group=None, sequence_parallel=True):
+/raid/home/shyamsg/.local/lib/python3.8/site-packages/mamba_ssm/distributed/tensor_parallel.py:62: FutureWarning: `torch.cuda.amp.custom_bwd(args...)` is deprecated. Please use `torch.amp.custom_bwd(args..., device_type='cuda')` instead.
+  def backward(ctx, grad_output):
+/raid/home/shyamsg/.local/lib/python3.8/site-packages/mamba_ssm/ops/triton/ssd_combined.py:758: FutureWarning: `torch.cuda.amp.custom_fwd(args...)` is deprecated. Please use `torch.amp.custom_fwd(args..., device_type='cuda')` instead.
+  def forward(ctx, zxbcdt, conv1d_weight, conv1d_bias, dt_bias, A, D, chunk_size, initial_states=None, seq_idx=None, dt_limit=(0.0, float("inf")), return_final_states=False, activation="silu",
+/raid/home/shyamsg/.local/lib/python3.8/site-packages/mamba_ssm/ops/triton/ssd_combined.py:836: FutureWarning: `torch.cuda.amp.custom_bwd(args...)` is deprecated. Please use `torch.amp.custom_bwd(args..., device_type='cuda')` instead.
+  def backward(ctx, dout, *args):
+Epoch 30/50: Train Loss: 0.6581, Train Acc: 0.7591, Val Loss: 1.2973, Val Acc: 0.6355
+Time taken for epoch 30: 509.4844 seconds (Training: 454.2434 seconds, Evaluation: 55.2410 seconds)
+--------------------------------------------------------------------------------
+Epoch 31/50: Train Loss: 0.6546, Train Acc: 0.7603, Val Loss: 1.2832, Val Acc: 0.6321
+Time taken for epoch 31: 510.7783 seconds (Training: 457.9087 seconds, Evaluation: 52.8696 seconds)
+--------------------------------------------------------------------------------
+Epoch 32/50: Train Loss: 0.6506, Train Acc: 0.7610, Val Loss: 1.2913, Val Acc: 0.6379
+Time taken for epoch 32: 513.2705 seconds (Training: 457.9236 seconds, Evaluation: 55.3469 seconds)
+--------------------------------------------------------------------------------
+Epoch 33/50: Train Loss: 0.6467, Train Acc: 0.7620, Val Loss: 1.2985, Val Acc: 0.6299
+Time taken for epoch 33: 518.8671 seconds (Training: 461.0063 seconds, Evaluation: 57.8607 seconds)
+--------------------------------------------------------------------------------
+Epoch 34/50: Train Loss: 0.6435, Train Acc: 0.7628, Val Loss: 1.3388, Val Acc: 0.6255
+Time taken for epoch 34: 516.9611 seconds (Training: 459.0212 seconds, Evaluation: 57.9400 seconds)
+--------------------------------------------------------------------------------
+Epoch 35/50: Train Loss: 0.6396, Train Acc: 0.7635, Val Loss: 1.3532, Val Acc: 0.6181
+Time taken for epoch 35: 500.8636 seconds (Training: 447.7329 seconds, Evaluation: 53.1307 seconds)
+--------------------------------------------------------------------------------
+Epoch 36/50: Train Loss: 0.6368, Train Acc: 0.7645, Val Loss: 1.3802, Val Acc: 0.6209
+Time taken for epoch 36: 505.1718 seconds (Training: 451.9343 seconds, Evaluation: 53.2376 seconds)
+--------------------------------------------------------------------------------
+Epoch 37/50: Train Loss: 0.6337, Train Acc: 0.7654, Val Loss: 1.3554, Val Acc: 0.6271
+Time taken for epoch 37: 502.8217 seconds (Training: 449.7664 seconds, Evaluation: 53.0552 seconds)
+--------------------------------------------------------------------------------
+Epoch 38/50: Train Loss: 0.6291, Train Acc: 0.7664, Val Loss: 1.4207, Val Acc: 0.6236
+Time taken for epoch 38: 504.2948 seconds (Training: 450.5979 seconds, Evaluation: 53.6970 seconds)
+--------------------------------------------------------------------------------
+Epoch 39/50: Train Loss: 0.6247, Train Acc: 0.7678, Val Loss: 1.4273, Val Acc: 0.6118
+Time taken for epoch 39: 509.9391 seconds (Training: 456.8867 seconds, Evaluation: 53.0524 seconds)
+--------------------------------------------------------------------------------
+Epoch 40/50: Train Loss: 0.6219, Train Acc: 0.7685, Val Loss: 1.4426, Val Acc: 0.6127
+Time taken for epoch 40: 504.7236 seconds (Training: 451.5683 seconds, Evaluation: 53.1553 seconds)
+--------------------------------------------------------------------------------
+Epoch 41/50: Train Loss: 0.6184, Train Acc: 0.7694, Val Loss: 1.4411, Val Acc: 0.6097
+Time taken for epoch 41: 503.4300 seconds (Training: 450.4761 seconds, Evaluation: 52.9538 seconds)
+--------------------------------------------------------------------------------
+Epoch 42/50: Train Loss: 0.6191, Train Acc: 0.7698, Val Loss: 1.4547, Val Acc: 0.6205
+Time taken for epoch 42: 512.0774 seconds (Training: 458.0514 seconds, Evaluation: 54.0261 seconds)
+--------------------------------------------------------------------------------
+Epoch 43/50: Train Loss: 0.6197, Train Acc: 0.7700, Val Loss: 1.4197, Val Acc: 0.6129
+Time taken for epoch 43: 507.3002 seconds (Training: 453.9850 seconds, Evaluation: 53.3152 seconds)
+--------------------------------------------------------------------------------
+Epoch 44/50: Train Loss: 0.6154, Train Acc: 0.7714, Val Loss: 1.4495, Val Acc: 0.6092
+Time taken for epoch 44: 503.5316 seconds (Training: 449.0070 seconds, Evaluation: 54.5245 seconds)
+--------------------------------------------------------------------------------
+Epoch 45/50: Train Loss: 0.6080, Train Acc: 0.7731, Val Loss: 1.4798, Val Acc: 0.6122
+Time taken for epoch 45: 509.0167 seconds (Training: 456.0149 seconds, Evaluation: 53.0019 seconds)
+--------------------------------------------------------------------------------
+Epoch 46/50: Train Loss: 0.6046, Train Acc: 0.7741, Val Loss: 1.5021, Val Acc: 0.6040
+Time taken for epoch 46: 507.3647 seconds (Training: 453.0452 seconds, Evaluation: 54.3195 seconds)
+--------------------------------------------------------------------------------
+Epoch 47/50: Train Loss: 0.6023, Train Acc: 0.7747, Val Loss: 1.5515, Val Acc: 0.6036
+Time taken for epoch 47: 510.2368 seconds (Training: 455.5806 seconds, Evaluation: 54.6562 seconds)
+--------------------------------------------------------------------------------
+Epoch 48/50: Train Loss: 0.5958, Train Acc: 0.7766, Val Loss: 1.5271, Val Acc: 0.6078
+Time taken for epoch 48: 510.5610 seconds (Training: 456.8077 seconds, Evaluation: 53.7533 seconds)
+--------------------------------------------------------------------------------
+Epoch 49/50: Train Loss: 0.5925, Train Acc: 0.7775, Val Loss: 1.5462, Val Acc: 0.6015
+Time taken for epoch 49: 506.6695 seconds (Training: 453.7036 seconds, Evaluation: 52.9659 seconds)
+--------------------------------------------------------------------------------
+Epoch 50/50: Train Loss: 0.5879, Train Acc: 0.7789, Val Loss: 1.6167, Val Acc: 0.5996
+Time taken for epoch 50: 503.5634 seconds (Training: 450.5351 seconds, Evaluation: 53.0284 seconds)
+Metrics saved at model/mamba-singlelayer_metrics.txt
+Plots saved at plots/mamba-singlelayer_loss.png
+Plots saved at plots/mamba-singlelayer_acc.png
